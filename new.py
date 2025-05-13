@@ -1,1 +1,2 @@
 ytyukhuku
+print("hello")
